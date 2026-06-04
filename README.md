@@ -13,7 +13,7 @@ A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 
 * Responsive design
 * Mobile-friendly gameplay
-* Smooth animations
+* Smooth animations  
 * Score tracking
 * Interactive user interface
 
