@@ -32,18 +32,17 @@ This project is open-source and available under the MIT License.
 ## 🚀 Games
 
 ### 1.  Space Shooter
-
 **Demo:**
 https://balavignesh2025.neocities.org/WEB_GAMES/Space%20Shooter/galaxy_shooter
 ---
 ### 2.  Flappy Bird 
-
 **Demo:**
 https://balavignesh2025.neocities.org/WEB_GAMES/flappy%20bird/flappy_bird
 ---
-
 ### 3.  Fruit Ninja
-
 **Demo:**
 https://balavignesh2025.neocities.org/Project/fruit%20ninja/slice_rush_mobile
+---
+### 4. Angry Birdz
+
 ---
