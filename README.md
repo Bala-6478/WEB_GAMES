@@ -3,7 +3,7 @@
 A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 
 ## 🛠️ Technologies Used    
-
+ 
 * HTML5
 * CSS3  
 * JavaScript  
