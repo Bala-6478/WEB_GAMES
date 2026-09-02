@@ -7,7 +7,7 @@ A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 * HTML5 
 * CSS3  
 * JavaScript  
-* Canvas API
+* Canvas API 
 
 ## ✨ Features  
 
