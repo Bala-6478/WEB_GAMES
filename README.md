@@ -16,7 +16,7 @@ A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 * Smooth animations  
 * Score tracking 
 * Interactive user interface 
-
+ 
 ## 👨‍💻 Developer
 
 **BALAVIGNESH A** 
